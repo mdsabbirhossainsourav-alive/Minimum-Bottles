@@ -25,6 +25,7 @@ For each test case, output on a new line the minimum number of bottles that can 
 
 1 ≤ Ai ≤ X
 ​
+
 Sample 1:
 ## Input
 2
